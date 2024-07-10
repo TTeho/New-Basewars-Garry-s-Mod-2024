@@ -1,0 +1,94 @@
+
+-------- PRINTERS -------------
+
+Wooden Printer:					- T0
+								- 0 - 100$
+								- models/props_junk/wood_crate001a.mdl
+
+Plastic Printer:				- T0
+								- 200 - 600$
+								-
+
+Scrap Metal Printer:			- T0
+								- 700 - 900$
+								-
+
+
+---------- GENERATORS -------------
+Gas Generator:					- T1
+								- models/xqm/hydcontrolbox.mdl (old fusion reactor model)
+
+Hydro-Electric Generator:		- models/props_industrial/oil_storage.mdl
+								- First T2 generator
+
+Fusion Reactor:					- Move to T2
+								- Change model to models/props/de_train/pallet_barrels.mdl
+
+
+-------- ENTITIES -------------
+Purchasable lamp:				- T1/T2
+								- Relatively cheap
+
+
+
+--------- MODELS ------------ (for future content)
+models/props/de_train/barrel.mdl
+models/props/de_nuke/nuclearcontrolbox.mdl
+models/props/de_nuke/nucleartestcabinet.mdl
+models/props/de_inferno/wine_barrel.mdl
+models/props_combine/combine_interface001.mdl
+models/props_c17/FurnitureBoiler001a.mdl
+models/props_lab/reciever01c.mdl
+
+------- IDEAS -----------
+
+Raid menu which displays raidable entities
+
+Drugs and weapons that are not picked up after 1-3 minute are autoremoved
+
+Change name to diamond printer
+
+Bug ghosty to finish textscreen tool
+
+End-game: Bitcoin mining
+				- Trade it for $$$
+				- Trade it for superweapons
+				- Cost: 10trillion + level reset to access it.
+
+
+Think of more defense and structure entities
+Add more T2 weapons (T3/superweapons)
+
+---------- TIERS ----------------
+
+Tier 0:
+	Cost: 100 - 1000
+	Level: 0
+	Really cheap
+	Have no UI because they're cheap
+
+Tier 1:
+	Cost: 2000 - 300k
+	Level 1 - 13
+
+Tier 2:
+	Cost: 6mil - 55mil
+	Level: 50 - 90
+
+Tier 3:
+	Cost: 100mil - 0.5bil (I'm think we should up the lower limit)
+	Level: 100 - 250 (Also up lower limit here)
+
+	T3 printers -> named after precious gems
+
+Tier 4:
+	Cost: 1bil - 15bil
+	Level: 250 - 1000
+
+	T4 printers -> Money factory
+
+Tier 5:
+	Cost: -inf - inf
+	Level: 9001 - 13371337
+
+	End-Game
